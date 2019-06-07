@@ -19,6 +19,7 @@ As seguintes regras devem ser seguidas nesta formatação:
 ## Tecnologias a serem utilizadas
 * .Net Core
 * Angular 5 ou superior
+* Programação orientada a objetos
 * Armazenamento de dados a sua escolha
 * ORM
 * Testes
