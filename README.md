@@ -19,6 +19,11 @@ As seguintes regras devem ser seguidas nesta formatação:
 ## Tecnologias a serem utilizadas
 * .Net Core
 * Angular 5 ou superior
-* Banco de Dados a sua escolha
+* Armazenamento de dados a sua escolha
 * ORM
 * Testes
+
+## Procedimento para entrega
+Realize um fork deste repositório, desenvolva sua solução e encaminhe o seu repositório com o seu código. Arquivos compactados não serão aceitos.
+
+Altere o arquivo README para descrever quais componentes foram utilizados e como sua aplicação deverá ser executada.
